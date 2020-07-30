@@ -1,0 +1,11 @@
+Package: coren
+Type: Package
+Title: A Collection of Solo Roleplaying Tools
+Version: 0.1.0
+Author: RPG Tips
+Maintainer: RPG Tips <rpgtipschannel@gmail.com>
+Description: 
+License: MIT
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 7.1.1
